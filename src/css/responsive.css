@@ -1,0 +1,9 @@
+@media screen and (max-width: 600px){
+    .container {
+        width: 350px;
+    }
+
+    .play-button {
+        transform: scale(1.2) translateY(20px);
+    }
+}
